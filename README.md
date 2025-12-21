@@ -12,7 +12,7 @@ struct Developer: Codable {
  let yearsOfExperience: Int = 7
  
  var primarySkills:[String] = ["Swift", "Combine", "UIKit", "SwiftUI", "Unit/UI Testing"] 
- var architectures: [String] = ["MVC", "MVVM", "Clean Architecture", "Viper"]
+ var architectures: [String] = ["MVC", "MVVM", "Clean Architecture", "Viper", "MVI", "TCA"]
  var secondarySkills: [String] = ["SOLID", "Dependecy Injection", "Coordinator", "Factory Pattern", "Modular Design"]
 }
 ```
