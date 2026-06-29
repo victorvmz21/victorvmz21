@@ -28,5 +28,5 @@ struct Developer: Codable {
 </a>
 
 ## Social Midia
-<p align="left"> <a href="https://www.linkedin.com/in/victor-monteiro-z/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bash"width="40" height="40"/> <a href="https://www.instagram.com/victor_vmz21/?hl=en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="bash"width="40" height="40"/>
+<p align="left"> <a href="https://www.linkedin.com/in/victor-monteiro-z/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bash"width="40" height="40"/> 
 </p>
